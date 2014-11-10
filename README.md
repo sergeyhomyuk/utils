@@ -1,4 +1,5 @@
-utils-js
-========
-
-JavaScript Utilities
+JavaScript utils:
+* asserts
+* array utils
+* boolean utils
+* string utils
